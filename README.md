@@ -4,6 +4,20 @@
 
 A responsive fintech landing page built with React and Tailwind CSS. The design presents a modern banking experience with a hero section, product benefits, payment-focused content, customer testimonials, partner logos, and clear calls to action.
 
+## Screenshots
+
+**Banking landing page · صفحهٔ آغازین**
+
+![Banking landing page](docs/screenshots/home.png)
+
+**Product benefits · مزایای خدمات**
+
+![Product benefits](docs/screenshots/features.png)
+
+**Customer testimonials · دیدگاه مشتریان**
+
+![Customer testimonials](docs/screenshots/testimonials.png)
+
 ## Features
 
 - Responsive navigation and mobile layout
